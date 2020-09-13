@@ -1,0 +1,2 @@
+# Touring_E-commerce_backend
+In this project, I have made a backend of an e-commerce website using the Express framework of NodeJS. I have also used JWT-authentication to verify if the customer is valid or not. We have already given the mysql-database in which there are different tables and their data. I have written different API’s to work each action of the user  while it is calling the specific API’s. 
